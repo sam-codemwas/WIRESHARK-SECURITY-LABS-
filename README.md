@@ -18,7 +18,7 @@ incidents using authorized training datasets.
 ## Areas of Focus
 
 ### 1. Network Traffic Analysis
- ARP Packet Analysis
+ a.ARP Packet Analysis
 
 ### 2. Security Forensics
 
