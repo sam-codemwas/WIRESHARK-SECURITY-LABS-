@@ -21,7 +21,7 @@ This section contains practical network traffic analysis exercises conducted usi
 
 | No. | Project | Status |
 |---|---|---|
-| 01 | ARP Packet Analysis | In Progress |
+| 01 | ARP Packet Analysis |Completed ✅|
 | 02 | ICMP Packet Analysis | Planned |
 | 03 | DHCP Packet Analysis | Planned |
 | 04 | SMTP Traffic Analysis | Planned |
